@@ -1,5 +1,6 @@
 .couponBtn{
-    border-radius: 0px 5px 5px 0px ;
+    border-radius: 0px 5px 5px 0px !important;
+    
 }
 .coupon{
     padding: 10px 0px ;
